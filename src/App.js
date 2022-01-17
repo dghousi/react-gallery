@@ -5,7 +5,7 @@ import logo3 from './images/earthspring (15).jpg';
 import logo4 from './images/earthspring (5).jpg';
 import logo5 from './images/earthspring (6).jpg';
 import logo6 from './images/earthspring (7).jpg';
-import logo7 from './images/earthspring (1).jpg';
+import logo7 from './images/earthspring (11).jpg';
 import logo8 from './images/earthspring (9).jpg';
 import logo9 from './images/earthspring (11).jpg';
 
