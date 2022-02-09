@@ -1,4 +1,8 @@
-.card-container {
+import styled from 'styled-components';
+
+
+
+export const CardContainer = styled.div`
     display: flex;
     flex-direction: column;
     background-color: #95dada;
@@ -10,8 +14,9 @@
     backface-visibility: hidden;
     transform: translateZ(0);
     transition: transform 0.25s ease-out;
-  }
   
-  .card-container:hover {
-    transform: scale(1.05);
-  }
+    &:hover {
+        transform: scale(1.05);
+    }
+
+`

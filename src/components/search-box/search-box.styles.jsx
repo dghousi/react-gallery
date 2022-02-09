@@ -1,4 +1,6 @@
-.search {
+import styled from "styled-components";
+
+export const SearchBoxContainer = styled.div`
     -webkit-appearance: none;
     border: 2px;
     border-color: cadetblue;
@@ -9,4 +11,5 @@
     width: 150px;
     line-height: 30px;
     margin-bottom: 30px;
-  }
+
+`
